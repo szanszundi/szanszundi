@@ -1,1 +1,3 @@
 # szanszundi
+cd <szanszundika>
+  
